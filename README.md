@@ -13,14 +13,32 @@
 <br>
 
 <p align="center">
-<a href="https://linkedin.com/in/bhavesh-malhotra-a5a875157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh-malhotra-a5a875157" height="30" width="40" /></a>
-<a href="https://codesandbox.com/codebulletin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codebulletin" height="30" width="40" /></a>
-<a href="https://instagram.com/codebulletin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codebulletin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code bulletin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code bulletin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bmalhotra736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bmalhotra736" height="30" width="40" /></a>
-<a href="https://discord.gg/ZU4eBvh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZU4eBvh5" height="30" width="40" /></a>
-
+    <!-- Youtube -->
+    <a href="https://www.youtube.com/c/codebulletin" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code bulletin" height="30" width="40" />
+    </a>
+    <!-- LeetCode -->
+    <a href="https://www.leetcode.com/bmalhotra736" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bmalhotra736" height="30" width="40" />
+    </a>
+    <!-- Discord -->
+    <a href="https://discord.gg/ZU4eBvh5" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZU4eBvh5" height="30" width="40" />
+    </a>
+    <!-- Linkedin -->
+    <a href="https://linkedin.com/in/bhavesh-malhotra-a5a875157" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh-malhotra-a5a875157" height="30" width="40" />
+    </a>
+    <!-- Code Sandbox -->
+    <a href="https://codesandbox.com/codebulletin" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codebulletin" height="30" width="40" />
+    </a>
+    <!-- Instagram -->
+    <a href="https://instagram.com/codebulletin" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codebulletin" height="30" width="40" />
+    </a>
 </p>
+
 <br>
 <h1 align="Center">Languages and Tools:</h1>
 <br>

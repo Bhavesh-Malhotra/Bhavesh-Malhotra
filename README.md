@@ -15,6 +15,6 @@
     </li>
     <li>
         Reach me at
-        <b>codebulletin@gmail.com</b>
+        **codebulletin@gmail.com**
     </li>
 </ul>

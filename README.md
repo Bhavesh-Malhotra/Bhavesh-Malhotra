@@ -14,7 +14,7 @@
 
 <p align="center">
     <!-- Youtube -->
-    <a href="https://www.youtube.com/c/codebulletin" target="blank">
+    <a href="https://www.youtube.com/channel/UCNI7fjmuGlgOPKqTqvUUjBQ" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code bulletin" height="30" width="40" />
     </a>
     <!-- LeetCode -->

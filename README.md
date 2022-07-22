@@ -57,7 +57,7 @@
 
 <p align='center'>
     <a href='https://www.github.com/codebulletin'>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebulletin&show_icons=true&theme=dark&locale=en&layout=compact" alt="codebulletin" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebulletin&show_icons=true&&theme=dark&locale=en&layout=compact&hide=mathematica" alt="codebulletin" />
     </a>
 </p>
 

@@ -51,7 +51,7 @@
 
 <p align="center">
     <a href='https://www.github.com/codebulletin'>
-        <img src="https://github-profile-trophy.vercel.app/?username=codebulletin&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" / alt='cd'>
+        <img src="https://github-profile-trophy.vercel.app/?username=codebulletin&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" alt='cd' />
     </a>
 </p>
 

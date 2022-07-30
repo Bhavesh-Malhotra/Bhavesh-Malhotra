@@ -44,28 +44,26 @@
 <br>
 
 <div align="Center">
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
-![Processing](https://img.shields.io/badge/-Processing-006699?style=for-the-badge&logo=ProcessingFoundation&logoColor=white) 
-![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?style=for-the-badge&logo=WolframMathematica&logoColor=white) 
-![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white) 
-![Maxima](https://img.shields.io/badge/-Maxima-FFDF18?style=for-the-badge)
-
+    <a href='https://docs.microsoft.com/en-us/dotnet/csharp/'><img src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white' alt='C#' /></a>
+    <a href='https://en.wikipedia.org/wiki/C_(programming_language)'><img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' alt='C' /></a>
+    <a href='https://en.wikipedia.org/wiki/C%2B%2B'><img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt='C++' /></a>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'><img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3' /></a>
+    <a href='https://www.php.net/'><img src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white' alt='PHP' /></a>
+    <a href='https://en.wikipedia.org/wiki/HTML5'><img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5' /></a>
+    <a href='https://www.java.com/'><img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white' alt='Java' /></a>
+    <a href='https://www.r-project.org/'><img src='https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white' alt='R' /></a>
+    <a href='https://www.python.org/'><img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='Python' /></a>
+    <a href='https://www.rust-lang.org/'><img src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white' alt='Rust' /></a>
+    <a href='https://www.typescriptlang.org/'><img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript' /></a>
+    <a href='https://www.javascript.com/'><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='JavaScript' /></a>
+    <a href='https://fortran-lang.org/'><img src='https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white' alt='Fortran' /></a> 
+    <a href='https://en.wikipedia.org/wiki/Markdown'><img src='https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white' alt='Markdown' /></a>
+    <a href='https://en.wikipedia.org/wiki/Shell_script'><img src='https://img.shields.io/badge/shell_script-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' alt='Shell Script' /></a>
+    <a href='https://julialang.org/'><img src='https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white' alt='Julia' /></a>
+    <a href='https://processing.org/'><img src='https://img.shields.io/badge/-Processing-006699?style=for-the-badge&logo=ProcessingFoundation&logoColor=white' alt='Processing' /></a>
+    <a href='https://www.wolfram.com/mathematica/'><img src='https://img.shields.io/badge/-Mathematica-DD1100?style=for-the-badge&logo=WolframMathematica&logoColor=white' alt='Mathematica' /></a>
+    <a href='https://git-scm.com/'><img src='https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white' alt='GIT' /></a>
+    <a href='https://sourceforge.net/projects/maxima/'><img src='https://img.shields.io/badge/-Maxima-FFDF18?style=for-the-badge' alt='Maxima' /></a>
 </div>
 
 <br>
@@ -73,18 +71,16 @@
 <br>
 
 <div align="Center">
-
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy,%20CuPy-013243.svg?style=for-the-badge&logo=Numpy&logoColor=white)
-![Scipy](https://img.shields.io/badge/Scipy-8CAAE6.svg?style=for-the-badge&logo=Scipy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-e0a144.svg?style=for-the-badge)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
+    <a href='https://www.tensorflow.org/'><img src='https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white' alt='Tensorflow' /></a>
+    <a href='https://keras.io/'><img src='https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white' alt='Keras' /></a>
+    <a href='https://numpy.org/'><img src='https://img.shields.io/badge/Numpy,%20CuPy-013243.svg?style=for-the-badge&logo=Numpy&logoColor=white' alt='Numpy' /></a>
+    <a href='https://scipy.org/'><img src='https://img.shields.io/badge/Scipy-8CAAE6.svg?style=for-the-badge&logo=Scipy&logoColor=white' alt='Scipy' /></a>
+    <a href='https://scikit-learn.org/'><img src='https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='Scikit-learn' /></a>
+    <a href='https://pandas.pydata.org/'><img src='https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white' alt='Pandas' /></a>      
+    <a href='https://matplotlib.org/'><img src='https://img.shields.io/badge/Matplotlib-e0a144.svg?style=for-the-badge' alt='Matplotlib' /></a>
+    <a href='https://www.anaconda.com/'><img src='https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white' alt='Anaconda' /></a>
+    <a href='https://plotly.com/'><img src='https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white' alt='Plotly' /></a>
+    <a href='https://opencv.org/'><img src='https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white' alt='OpenCV' /></a>
 </div>
 
 <br>
@@ -92,25 +88,23 @@
 <br>
 
 <div align="Center">
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
+    <a href='https://getbootstrap.com/'><img src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' /></a>
+    <a href='https://tailwindcss.com/'><img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='TailwindCSS' /></a>
+    <a href='https://p5js.org/'><img src='https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF' alt='p5js' /></a>
+    <a href='https://reactjs.org/'><img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='React' /></a>        
+    <a href='https://reactnative.dev/'><img src='https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='React Native' /></a>
+    <a href='https://redux.js.org/'><img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white' alt='Redux' /></a>
+    <a href='https://sass-lang.com/'><img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='SASS' /></a>
+    <a href='https://www.djangoproject.com/'><img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' alt='Django' /></a>
+    <a href='https://www.electronjs.org/'><img src='https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white' alt='Electron.js' /></a>
+    <a href='https://nodejs.org/'><img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt='NodeJS' /></a>
+    <a href='https://expressjs.com/'><img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' alt='Express.js' /></a>
+    <a href='https://www.npmjs.com/'><img src='https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white' alt='NPM' /></a>
+    <a href='https://www.php.net/'><img src='https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white' alt='PHP' /></a>
+    <a href='https://www.mongodb.com/'><img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB' /></a>  
+    <a href='https://www.mysql.com/'><img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' /></a>
+    <a href='https://www.sqlite.org/index.html'><img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white' alt='SQLite' /></a>
+    <a href='https://redis.io/'><img src='https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white' alt='Redis' /></a>
 </div>
 
 <br>

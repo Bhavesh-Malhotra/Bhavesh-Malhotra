@@ -61,7 +61,7 @@
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
 ![Processing](https://img.shields.io/badge/-Processing-006699?style=for-the-badge&logo=ProcessingFoundation&logoColor=white) 
 ![Mathematica](https://img.shields.io/badge/-Mathematica-006699?style=for-the-badge&logo=WolframMathematica&logoColor=white) 
-![Maxima](https://img.shields.io/badge/-Maxima-006699?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iSVNPLTg4NTktMSI/Pgo8IS0tIE1heGltYSBsb2dvIC0gSmFpbWUgRS4gVmlsbGF0ZSwgMjAxNCAtLT4KPHN2ZyBoZWlnaHQ9IjEzNSIgd2lkdGg9IjEzNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CjxkZWZzPgo8ZmlsdGVyIGlkPSJzaGFkb3ciICBmaWx0ZXJVbml0cz0ib2JqZWN0Qm91bmRpbmdCb3giIHdpZHRoPSIxLjQiCmhlaWdodD0iMS40Ij4KPGZlR2F1c3NpYW5CbHVyIGluPSJTb3VyY2VBbHBoYSIgc3RkRGV2aWF0aW9uPSI0IiAvPiAKPGZlT2Zmc2V0IGR4PSI0IiBkeT0iNCIgLz4KPGZlQ29tcG9uZW50VHJhbnNmZXIgcmVzdWx0PSJzaGFkb3ciPgo8ZmVGdW5jQSB0eXBlPSJsaW5lYXIiIHNsb3BlPSIuNSIgaW50ZXJjZXB0PSIwIiAvPgo8L2ZlQ29tcG9uZW50VHJhbnNmZXI+CjwvZmlsdGVyPgo8ZmlsdGVyIGlkPSJlbWJvc3MiID4KPGZlR2F1c3NpYW5CbHVyIGluPSJTb3VyY2VBbHBoYSIgc3RkRGV2aWF0aW9uPSIyIiByZXN1bHQ9ImJsdXIiLz4KPGZlU3BlY3VsYXJMaWdodGluZyBpbj0iYmx1ciIgc3VyZmFjZVNjYWxlPSItMyIKc3R5bGU9ImxpZ2h0aW5nLWNvbG9yOndoaXRlIiBzcGVjdWxhckNvbnN0YW50PSIxIgpzcGVjdWxhckV4cG9uZW50PSIxNiIgcmVzdWx0PSJzcGVjIiBrZXJuZWxVbml0TGVuZ3RoPSIxIiA+CjxmZURpc3RhbnRMaWdodCBhemltdXRoPSI0NSIgZWxldmF0aW9uPSI0NSIgLz4KPC9mZVNwZWN1bGFyTGlnaHRpbmc+CjxmZUNvbXBvc2l0ZSBpbj0ic3BlYyIgaW4yPSJTb3VyY2VHcmFwaGljIiBvcGVyYXRvcj0iaW4iIHJlc3VsdD0ic3BlY091dCIvPgo8L2ZpbHRlcj4KPHBhdGggZD0iTTIwLjA0LC03NS44NCBINDAuMzIgQzU0LjI0LC03NS44NCA1Ny45NiwtNzMuMDggNjAsLTYxLjIgSDYzLjEyCkw2MS45MiwtODAuNzYgSDIuNjQgTDI4LjgsLTM4LjQgMC42LDAgSDY0LjIgTDcwLjY4LC0yMS42IEg2Ny41NgpDNjMuNzIsLTEyIDYwLjEyLC05Ljk2IDQ2LjIsLTkuOTYgSDE0LjE2IEwzOS40OCwtNDQuMjggMjAuMDQsLTc1Ljg0IFoiCmlkPSJTaWdtYSIvPgo8cGF0aCBkPSJNNjQuNzA0LC01NS4wMDggVi0xMS41MiBDNjQuNzA0LC0zLjU1MiA2My41NTIsLTIuMzA0IDU1Ljk2OCwtMS44MjQKSDgyLjg0OCBWLTEuODI0IEM3NS44NCwtMi4zMDQgNzQuNDk2LC0zLjY0OCA3NC40OTYsLTEwLjQ2NCBWLTUzLjA4OApDNzQuNDk2LC01OS45MDQgNzUuNzQ0LC02MS4xNTIgODIuODQ4LC02MS43MjggVi02My41NTIgSDYzLjc0NCBMNDIuNTI4LC0xNS4wNzIKMjAuMzUyLC02My41NTIgSDEuMzQ0IFYtNjEuNzI4IEM5LjIxNiwtNjEuMjQ4IDEwLjQ2NCwtNjAuMDk2IDEwLjQ2NCwtNTMuMDg4ClYtMTQuMTEyIEMxMC40NjQsLTQuMjI0IDkuMTIsLTIuNCAxLjE1MiwtMS44MjQgSDIzLjcxMiBWLTEuODI0CkMxNi4zMiwtMi4yMDggMTQuNjg4LC00LjQxNiAxNC42ODgsLTE0LjExMiBWLTUyLjggTDM4Ljc4NCwwIEg0MC4xMjgKTDY0LjcwNCwtNTUuMDA4IFoiIGlkPSJNIi8+CjxwYXRoIGQ9Ik0zNi4xMiwtOTEuNjggQzM1LjA0LC05MS44IDM0LjA4LC05MS45MiAzMy40OCwtOTEuOTIgMjguMDgsLTkxLjkyCjIyLjY4LC04Ny42IDIxLjg0LC04Mi42OCAyMS4xMiwtNzguMjQgMjMuMTYsLTc1LjYgMjguNjgsLTczLjkyIDI1LjMyLC03MS4wNAoyMy4xNiwtNjcuNDQgMjIuNDQsLTYzLjQ4IDIxLjcyLC01OC45MiAyMy4wNCwtNTUuMDggMjYuODgsLTUwLjc2IDIyLjIsLTQ3LjY0CjE5LjkyLC00NS44NCAxNy40LC00My40NCAxMi4yNCwtMzguNCA4LjQsLTMxLjA4IDcuMzIsLTI0LjEyIDUuNjQsLTE0LjY0CjkuMTIsLTUuODggMTUuNzIsLTIuMjggMTkuMzIsLTAuMzYgMjMuNzYsMC4zNiAzMS4wOCwwLjM2IDMzLjI0LDAuMzYgMzUuODgsMC4yNAo0MS42NCwwIDQ2LjMyLC0wLjI0IDQ5LjQ0LDMuMjQgNDguNzIsNy45MiA0OC4wLDEyLjQ4IDQ0LjE2LDE1Ljg0IDM5LjcyLDE1Ljg0CjM5LjEyLDE1Ljg0IDM2Ljg0LDE1LjYgMzQuNTYsMTUuMTIgMzEuOCwxNC43NiAzMC44NCwxNC42NCAyOS43NiwxNC42NAoyNi43NiwxNC42NCAyNC4zNiwxNi42OCAyMy44OCwxOS42OCAyMy4xNiwyMy43NiAyNi43NiwyNi42NCAzMi42NCwyNi42NAozOC4yOCwyNi42NCA0Mi45NiwyNC4yNCA0Ny43NiwxOS4wOCA1MS45NiwxNC41MiA1NC43Miw5IDU1LjY4LDMuNDggNTYuNjQsLTEuOTIKNTUuMzIsLTYuMTIgNTEuOTYsLTkgNDkuNTYsLTExLjE2IDQ2LjkyLC0xMS43NiA0MS41MiwtMTEuNzYgSDMxLjA4CkMyNS45MiwtMTEuNzYgMjEuOTYsLTEyLjI0IDE5LjkyLC0xMy4yIDE1LjI0LC0xNS40OCAxMi42LC0yMS4xMiAxMy42OCwtMjcuMzYKMTUuMTIsLTM1Ljg4IDIxLjQ4LC00My4wOCAzMi41MiwtNDguODQgMzUuNjQsLTQ3LjY0IDM4LjA0LC00Ny4yOCA0MS43NiwtNDcuMjgKNTEuMjQsLTQ3LjI4IDU3LjM2LC00OS44IDU4LjA4LC01NCA1OC41NiwtNTYuNzYgNTUuNjgsLTU4LjMyIDUwLjQsLTU4LjMyCjQ1LjcyLC01OC4zMiA0MS4xNiwtNTcgMzIuMTYsLTUzLjI4IDI3LjYsLTU3IDI2LjQsLTU5LjQgMjcsLTYzLjI0IDI3LjYsLTY2Ljk2CjMwLjQ4LC03MC41NiAzNS41MiwtNzMuOTIgNDEuNTIsLTc0LjE2IDQ1LjcyLC03NC44OCA0OS4zMiwtNzYuNTYgNTMuNjQsLTc4LjYKNTYuODgsLTgxLjYgNTcuMjQsLTg0LjM2IDU3LjcyLC04Ni42NCA1NS45MiwtODcuOTYgNTIuNTYsLTg3Ljk2IDQ4LjEyLC04Ny45Ngo0Mi43MiwtODUuMiAzMy45NiwtNzguMzYgMzAuMTIsLTc4LjQ4IDI3Ljk2LC04MC43NiAyOC41NiwtODMuODggMjguOTIsLTg2LjUyCjMxLjMyLC04OC4zMiAzNS43NiwtODkuNTIgTDM2LjEyLC05MS42OFoiIGlkPSJ4aSIgLz4KPC9kZWZzPgo8Zz4KPHVzZSB4bGluazpocmVmPSIjeGkiIHg9IjEiIHk9Ijk5IiBzdHlsZT0iZmlsdGVyOnVybCgjc2hhZG93KTsiIC8+Cjx1c2UgeGxpbms6aHJlZj0iI3hpIiB4PSIxIiB5PSI5OSIgc3R5bGU9ImZpbGw6cmdiKDAsMCwxMjgpOyIgLz4KPHVzZSB4bGluazpocmVmPSIjeGkiIHg9IjEiIHk9Ijk5IiBzdHlsZT0iZmlsdGVyOnVybCgjZW1ib3NzKSIgLz4KPHVzZSB4bGluazpocmVmPSIjU2lnbWEiIHg9IjU2IiB5PSI5OSIgc3R5bGU9ImZpbHRlcjp1cmwoI3NoYWRvdyk7IiAvPgo8dXNlIHhsaW5rOmhyZWY9IiNTaWdtYSIgeD0iNTYiIHk9Ijk5IiBzdHlsZT0iZmlsbDpyZ2IoMCwwLDEyOCk7IiAvPgo8dXNlIHhsaW5rOmhyZWY9IiNTaWdtYSIgeD0iNTYiIHk9Ijk5IiBzdHlsZT0iZmlsdGVyOnVybCgjZW1ib3NzKTsiIC8+Cjx1c2UgeGxpbms6aHJlZj0iI00iIHg9IjI5IiB5PSI5NSIgc3R5bGU9ImZpbHRlcjp1cmwoI3NoYWRvdyk7Ii8+Cjx1c2UgeGxpbms6aHJlZj0iI00iIHg9IjI5IiB5PSI5NSIgc3R5bGU9ImZpbGw6cmdiKDE4MCwwLDApOyIvPgo8dXNlIHhsaW5rOmhyZWY9IiNNIiB4PSIyOSIgeT0iOTUiIHN0eWxlPSJmaWx0ZXI6dXJsKCNlbWJvc3MpOyIvPgo8L2c+Cjwvc3ZnPgo=)
+![Maxima](https://img.shields.io/badge/-Maxima-006699?style=for-the-badge)
 
 <br>
 <h1 align="Center">Data Science And Machine Learning APIs</h1>
@@ -73,7 +73,7 @@
 ![Scipy](https://img.shields.io/badge/Scipy-8CAAE6.svg?style=for-the-badge&logo=Scipy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-e0a144.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iMTgwIiBzdHJva2U9ImdyYXkiPgo8ZyBzdHJva2Utd2lkdGg9IjIiIGZpbGw9IiNGRkYiPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSI4OCIvPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSI2NiIvPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSI0NCIvPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSIyMiIvPgo8cGF0aCBkPSJtOTAsMnYxNzZtNjItMjYtMTI0LTEyNG0xMjQsMC0xMjQsMTI0bTE1MC02MkgyIi8+CjwvZz48ZyBvcGFjaXR5PSIuOCI+CjxwYXRoIGZpbGw9IiM0NEMiIGQ9Im05MCw5MGgxOGExOCwxOCAwIDAsMCAwLTV6Ii8+CjxwYXRoIGZpbGw9IiNCQzMiIGQ9Im05MCw5MCAzNC00M2E1NSw1NSAwIDAsMC0xNS04eiIvPgo8cGF0aCBmaWxsPSIjRDkzIiBkPSJtOTAsOTAtMTYtNzJhNzQsNzQgMCAwLDAtMzEsMTV6Ii8+CjxwYXRoIGZpbGw9IiNEQjMiIGQ9Im05MCw5MC01OC0yOGE2NSw2NSAwIDAsMC01LDM5eiIvPgo8cGF0aCBmaWxsPSIjM0JCIiBkPSJtOTAsOTAtMzMsMTZhMzcsMzcgMCAwLDAgMiw1eiIvPgo8cGF0aCBmaWxsPSIjM0M5IiBkPSJtOTAsOTAtMTAsNDVhNDYsNDYgMCAwLDAgMTgsMHoiLz4KPHBhdGggZmlsbD0iI0Q3MyIgZD0ibTkwLDkwIDQ2LDU4YTc0LDc0IDAgMCwwIDEyLTEyeiIvPgo8L2c+PC9zdmc+&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-e0a144.svg?style=for-the-badge)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -99,6 +99,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <br>
 <h1 align="Center">Databases</h1>
@@ -108,6 +109,39 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+<br>
+<h1 align="Center">Other APIs/Library</h1>
+<br>
+
+![SFML](https://img.shields.io/badge/SFML-8CC445.svg?style=for-the-badge&logo=SFML&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&logo=OpenGL&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=Vulkan&logoColor=white)
+![QT](https://img.shields.io/badge/QT-41CD52.svg?style=for-the-badge&logo=QT&logoColor=white)
+![ImGUI](https://img.shields.io/badge/ImGUI-40AEF0.svg?style=for-the-badge)
+![DX12](https://img.shields.io/badge/DX12-006600.svg?style=for-the-badge)
+![DX11](https://img.shields.io/badge/DX11-68BC71.svg?style=for-the-badge)
+![Pillow](https://img.shields.io/badge/Pillow-FF9A00.svg?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000B1D.svg?style=for-the-badge)
+![PyGame](https://img.shields.io/badge/PyGame-A9225C.svg?style=for-the-badge)
+
+<br>
+<h1 align="Center">Text Editors and IDE</h1>
+<br>
+
+![VS](https://img.shields.io/badge/Visual%20Sudio%20For%20C++%20And%20C%23-5C2D91.svg?style=for-the-badge&logo=VisualStudio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+![InteliJ](https://img.shields.io/badge/InteliJ-000000.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
+![Unreal](https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=UnrealEngine&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![Nano](https://img.shields.io/badge/Nano-000000.svg?style=for-the-badge)
+![VIM](https://img.shields.io/badge/VIM-000000.svg?style=for-the-badge)
+
+
+
+
 
 <br>
 <h1 align='center'> GitHub </h1>

@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **codebulletin@gmail.com**
 
-- 👨‍💻 My portfolio: (click here)[https://codebulletin.github.io/MyPortfolio/]
+- 👨‍💻 My portfolio: [click here](https://codebulletin.github.io/MyPortfolio/)
 
 <br>
 <br>

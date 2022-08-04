@@ -64,7 +64,6 @@
     <a href='https://julialang.org/'><img src='https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white' alt='Julia' /></a>
     <a href='https://processing.org/'><img src='https://img.shields.io/badge/-Processing-006699?style=for-the-badge&logo=ProcessingFoundation&logoColor=white' alt='Processing' /></a>
     <a href='https://www.wolfram.com/mathematica/'><img src='https://img.shields.io/badge/-Mathematica-DD1100?style=for-the-badge&logo=WolframMathematica&logoColor=white' alt='Mathematica' /></a>
-    <a href='https://git-scm.com/'><img src='https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white' alt='GIT' /></a>
     <a href='https://sourceforge.net/projects/maxima/'><img src='https://img.shields.io/badge/-Maxima-FFDF18?style=for-the-badge' alt='Maxima' /></a>
 </div>
 

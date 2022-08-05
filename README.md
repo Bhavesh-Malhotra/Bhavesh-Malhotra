@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Malhotra</h1>
 <h3 align="center">A passionate Full stack web developer, AI/ML developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhavesh-malhotra&label=Profile%20views&color=0e75b6&style=plastic" alt="codebulletin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeBulletin&label=Profile%20views&color=0e75b6&style=plastic" alt="codebulletin" /> </p>
 
 - 🌱 I’m currently learning **Networking(How to create a torrent client)**
 
@@ -162,32 +162,32 @@
 
 <p align="center">
     <a href='https://www.github.com/bhavesh-malhotra'>
-        <img src="https://github-profile-trophy.vercel.app/?username=bhavesh-malhotra&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" alt='cd' />
+        <img src="https://github-profile-trophy.vercel.app/?username=CodeBulletin&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" alt='cd' />
     </a>
 </p>
 
 <p align='center'>
     <a href='https://www.github.com/bhavesh-malhotra'>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh-malhotra&show_icons=true&&theme=dark&locale=en&layout=compact&hide=mathematica&langs_count=10&exclude_repo=imgui,glfw,OpenGL" alt="codebulletin" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeBulletin&show_icons=true&&theme=dark&locale=en&layout=compact&hide=mathematica&langs_count=10&exclude_repo=imgui,glfw,OpenGL" alt="codebulletin" />
     </a>
 </p>
 
 <p align='center'>
     &nbsp;
     <a href='https://www.github.com/bhavesh-malhotra'>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavesh-malhotra&show_icons=true&theme=dark&locale=en" alt="codebulletin" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeBulletin&show_icons=true&theme=dark&locale=en" alt="codebulletin" />
     </a>
 </p>
 
 <p align='center'>
     <a href='https://www.github.com/bhavesh-malhotra'>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-malhotra&theme=dark" alt="codebulletin" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBulletin&theme=dark" alt="codebulletin" />
     </a>
 </p>
 
 <p>
     <a href='https://www.github.com/bhavesh-malhotra'>
-        <img src="https://activity-graph.herokuapp.com/graph?username=bhavesh-malhotra&theme=xcode" alt="Contribution Graph" align="center" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=CodeBulletin&theme=xcode" alt="Contribution Graph" align="center" />
     </a>
 </p>
 

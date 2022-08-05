@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Malhotra</h1>
 <h3 align="center">A passionate Full stack web developer, AI/ML developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codebulletin&label=Profile%20views&color=0e75b6&style=plastic" alt="codebulletin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhavesh-malhotra&label=Profile%20views&color=0e75b6&style=plastic" alt="codebulletin" /> </p>
 
 - 🌱 I’m currently learning **Networking(How to create a torrent client)**
 

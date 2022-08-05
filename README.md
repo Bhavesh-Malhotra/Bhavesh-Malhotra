@@ -161,33 +161,33 @@
 <br>
 
 <p align="center">
-    <a href='https://www.github.com/codebulletin'>
-        <img src="https://github-profile-trophy.vercel.app/?username=codebulletin&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" alt='cd' />
+    <a href='https://www.github.com/bhavesh-malhotra'>
+        <img src="https://github-profile-trophy.vercel.app/?username=bhavesh-malhotra&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" alt='cd' />
     </a>
 </p>
 
 <p align='center'>
-    <a href='https://www.github.com/codebulletin'>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebulletin&show_icons=true&&theme=dark&locale=en&layout=compact&hide=mathematica&langs_count=10&exclude_repo=imgui,glfw,OpenGL" alt="codebulletin" />
+    <a href='https://www.github.com/bhavesh-malhotra'>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh-malhotra&show_icons=true&&theme=dark&locale=en&layout=compact&hide=mathematica&langs_count=10&exclude_repo=imgui,glfw,OpenGL" alt="codebulletin" />
     </a>
 </p>
 
 <p align='center'>
     &nbsp;
-    <a href='https://www.github.com/codebulletin'>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=codebulletin&show_icons=true&theme=dark&locale=en" alt="codebulletin" />
+    <a href='https://www.github.com/bhavesh-malhotra'>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavesh-malhotra&show_icons=true&theme=dark&locale=en" alt="codebulletin" />
     </a>
 </p>
 
 <p align='center'>
-    <a href='https://www.github.com/codebulletin'>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebulletin&theme=dark" alt="codebulletin" />
+    <a href='https://www.github.com/bhavesh-malhotra'>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-malhotra&theme=dark" alt="codebulletin" />
     </a>
 </p>
 
 <p>
-    <a href='https://www.github.com/codebulletin'>
-        <img src="https://activity-graph.herokuapp.com/graph?username=codebulletin&theme=xcode" alt="Contribution Graph" align="center" />
+    <a href='https://www.github.com/bhavesh-malhotra'>
+        <img src="https://activity-graph.herokuapp.com/graph?username=bhavesh-malhotra&theme=xcode" alt="Contribution Graph" align="center" />
     </a>
 </p>
 

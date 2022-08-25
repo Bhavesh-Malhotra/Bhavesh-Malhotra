@@ -65,6 +65,7 @@
     <a href='https://processing.org/'><img src='https://img.shields.io/badge/-Processing-006699?style=for-the-badge&logo=ProcessingFoundation&logoColor=white' alt='Processing' /></a>
     <a href='https://www.wolfram.com/mathematica/'><img src='https://img.shields.io/badge/-Mathematica-DD1100?style=for-the-badge&logo=WolframMathematica&logoColor=white' alt='Mathematica' /></a>
     <a href='https://sourceforge.net/projects/maxima/'><img src='https://img.shields.io/badge/-Maxima-FFDF18?style=for-the-badge' alt='Maxima' /></a>
+    <a href='https://sass-lang.com/'><img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='SASS' /></a>
 </div>
 
 <br>
@@ -95,7 +96,6 @@
     <a href='https://reactjs.org/'><img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='React' /></a>        
     <a href='https://reactnative.dev/'><img src='https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='React Native' /></a>
     <a href='https://redux.js.org/'><img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white' alt='Redux' /></a>
-    <a href='https://sass-lang.com/'><img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='SASS' /></a>
     <a href='https://www.djangoproject.com/'><img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' alt='Django' /></a>
     <a href='https://www.electronjs.org/'><img src='https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white' alt='Electron.js' /></a>
     <a href='https://nodejs.org/'><img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt='NodeJS' /></a>

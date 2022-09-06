@@ -9,6 +9,8 @@
 
 - 👨‍💻 My portfolio: [click here](https://codebulletin.github.io/MyPortfolio/)
 
+- 📄 My resume: [click here](https://codebulletin.github.io/Resume/)
+
 <br>
 <br>
 <h1 align="Center">Connect with me:</h1>

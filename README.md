@@ -163,32 +163,32 @@
 <br>
 
 <p align="center">
-    <a href='https://www.github.com/bhavesh-malhotra'>
+    <a href='https://www.github.com/CodeBulletin'>
         <img src="https://github-profile-trophy.vercel.app/?username=CodeBulletin&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" alt='cd' />
     </a>
 </p>
 
 <p align='center'>
-    <a href='https://www.github.com/bhavesh-malhotra'>
+    <a href='https://www.github.com/CodeBulletin'>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeBulletin&show_icons=true&&theme=dark&locale=en&layout=compact&hide=mathematica&langs_count=10&exclude_repo=imgui,glfw,OpenGL" alt="codebulletin" />
     </a>
 </p>
 
 <p align='center'>
     &nbsp;
-    <a href='https://www.github.com/bhavesh-malhotra'>
+    <a href='https://www.github.com/CodeBulletin'>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeBulletin&show_icons=true&theme=dark&locale=en" alt="codebulletin" />
     </a>
 </p>
 
 <p align='center'>
-    <a href='https://www.github.com/bhavesh-malhotra'>
+    <a href='https://www.github.com/CodeBulletin'>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBulletin&theme=dark" alt="codebulletin" />
     </a>
 </p>
 
 <p>
-    <a href='https://www.github.com/bhavesh-malhotra'>
+    <a href='https://www.github.com/CodeBulletin'>
         <img src="https://activity-graph.herokuapp.com/graph?username=CodeBulletin&theme=xcode" alt="Contribution Graph" align="center" />
     </a>
 </p>
